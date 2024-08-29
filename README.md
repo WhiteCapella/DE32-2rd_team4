@@ -1,5 +1,5 @@
 # DE32-2rd_team4
-# Businness Chatting System
+# [Businness Chatting System](https://github.com/DE32-2nd-team4/Business-Chatting-System)
 ![image](https://github.com/user-attachments/assets/ef2c3426-8eaa-43bf-bbdf-c73f6ce9de71)
 
 
